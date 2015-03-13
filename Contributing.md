@@ -1,0 +1,1 @@
+A contributors guide is currently available from the [downloads section](http://code.google.com/p/owasp-esapi-php/downloads/list).
